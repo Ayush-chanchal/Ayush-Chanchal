@@ -3,20 +3,16 @@
 Hello World 🌎! I'm **Ayush-Chanchal**, a passionate cloud enthusiast☁️ and web developer🌐.Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓,data structures and algorithms 🗃️🧮, and more. You can find my contact information below!😊🚀  
                                                                                                                                                                                    
                                                                                     
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Manav-Khandurie)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/manav-khandurie/)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/leetcode/leetcode.png" width="40px">](https://leetcode.com/manavkhandurie/)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:manavkhandurie@gmail.com)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/twitter/twitter.svg" width="40px">](https://twitter.com/khandurie)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/discord/discord.svg" width="40px">](https://discordapp.com/users/1130906260670263357)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">]((https://github.com/Ayush-chanchal))
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/ayush-chanchal-220611220/)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/leetcode/leetcode.png" width="40px">](https://leetcode.com/u/_Ayush_chanchal/)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:ayushchanchal447@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/twitter/twitter.svg" width="40px">](https://x.com/Ayush_chanchal_)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/discord/discord.svg" width="40px">](https://discord.com/channels/@me)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/telegram/telegram2.svg" width="40px">](https://t.me/manavkhandurie)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/docker/docker.webp" width="40px">](https://hub.docker.com/u/manavkhandurie)
-[<img src="https://img.icons8.com/color/48/hashnode.png" width="40px">](https://hashnode.com/@ManavKhandurie)
-[<img src="https://img.icons8.com/color/48/codechef.png" width="40px">](https://www.codechef.com/users/manavkhandurie)
-[<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40px">](https://www.hackerrank.com/manavkhandurie)
-[<img src="https://www.svgrepo.com/show/331358/credly.svg" width="40px">](https://www.credly.com/users/manav-khandurie/badges)
-[<img src="https://www.svgrepo.com/show/354887/code-sandbox.svg" width="40px">](https://codesandbox.io/u/manavkhandurie)
-[<img src="https://www.svgrepo.com/show/416519/medium-logo.svg" width="40px">](https://medium.com/@manavkhandurie)
+[<img src="https://img.icons8.com/color/48/codechef.png" width="40px">](https://www.codechef.com/users/ayush_chanchal)
+[<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40px">](https://www.hackerrank.com/profile/ayushchanchal447)
+
  
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
 
