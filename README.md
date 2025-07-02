@@ -18,12 +18,12 @@ Hello World 🌎! I'm **Ayush-Chanchal**, a passionate cloud enthusiast☁️ an
 
 <h2> <b>Current Status Quo</b> </h2>
 
-- 👨🏻‍💻 I’m currently working on [AI-Agents](https://github.com/Manav-Khandurie/agents.git)
+- 👨🏻‍💻 I’m currently working on [AI-Agents]()
 - 🌱 I’m currently learning **GenAI** ,**AI-Agents** and **DSA**🔣.
 - 🧐 My research interests are with **Cloud, DevOps, ML, Web-Dev**, etc.
 - 💼 I pursued a _Bachelor's Degree_ in _Computer Science Engineering_.
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via manavkhandurie@gmail.com .
+- 📫 Please email via ayushchanchal447@gmail.com .
 
 <br>
 <details>
@@ -70,22 +70,22 @@ Hello World 🌎! I'm **Ayush-Chanchal**, a passionate cloud enthusiast☁️ an
   </summary>
 <br />
 <a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Manav-Khandurie" loading="lazy"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Chanchal" loading="lazy"/>
 </a>
 <a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav-Khandurie&layout=compact&langs_count=8&card_width=320" loading="lazy"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush-Chanchal&layout=compact&langs_count=8&card_width=320" loading="lazy"/>
 </a>
   <a >
-  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manav-Khandurie&theme=github&utcOffset=8" loading="lazy"/>
+  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush-Chanchal&theme=github&utcOffset=8" loading="lazy"/>
 </a>
 <a >
-  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manav-Khandurie&theme=github" loading="lazy"/>
+  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-Chanchal&theme=github" loading="lazy"/>
 </a>
   <a >
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift" loading="lazy"/>
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Ayush-Chanchal&theme=swift" loading="lazy"/>
 </a>
 <a >
-  <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie&theme=github-compact" loading="lazy"/>
+  <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Chanchal&theme=github-compact" loading="lazy"/>
 </a>
   <br />
 </details>
@@ -95,7 +95,7 @@ Hello World 🌎! I'm **Ayush-Chanchal**, a passionate cloud enthusiast☁️ an
   <b >My Github Trophies 🏆</b>
   </summary>
   <a >
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Manav-Khandurie&no-frame=true" />
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Ayush-Chanchal&no-frame=true" />
   </a>
 </details>
 
@@ -104,7 +104,7 @@ Hello World 🌎! I'm **Ayush-Chanchal**, a passionate cloud enthusiast☁️ an
   <b >Holopin 🐉</b>
   </summary>
   <a >
-      <img align="center" src="https://holopin.me/manavkhandurie" loading="lazy" />
+      <img align="center" src="https://holopin.me/Ayush-Chanchal" loading="lazy" />
   </a>
 </details>
 
@@ -112,7 +112,7 @@ Hello World 🌎! I'm **Ayush-Chanchal**, a passionate cloud enthusiast☁️ an
   <summary>
   <b >Other Badges 🦡</b>
   </summary>
- <a href="https://app.daily.dev/manavkhandurie"><img src="https://api.daily.dev/devcards/v2/Der2QpvO1aeJ2X3v1caoc.png?type=wide&r=fz6" width="652" alt="Manav Khandurie's Dev Card"/></a>
+ <a href="https://app.daily.dev/manavkhandurie"><img src="https://api.daily.dev/devcards/v2/Der2QpvO1aeJ2X3v1caoc.png?type=wide&r=fz6" width="652" alt="Ayush Chanchal's Dev Card"/></a>
 </details>
 
 
