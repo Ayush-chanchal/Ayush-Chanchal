@@ -2,9 +2,10 @@
 <br />           
 
 Hello World 🌎! I'm **Ayush Chanchal**, a passionate **AI/ML Engineer 🤖**, **Deep Learning Researcher 🧠**, and **Full Stack Web Developer 🌐**.  
-I love creating data-driven, intelligent systems that make a real-world impact!  
+I’m a **B.Tech graduate in Artificial Intelligence & Machine Learning** who thrives on building intelligent, data-driven systems that create real-world impact. <!-- UPDATED -->
+I’m constantly learning, experimenting, and exploring cutting-edge technologies to drive innovation. <!-- UPDATED -->
 
-Feel free to connect with me to discuss **Artificial Intelligence 🧠**, **Machine Learning 📊**, **Generative AI 🤯**, **Cloud ☁️**, or **Web Development 💻**.  
+Feel free to connect with me to discuss **Artificial Intelligence 🧠**, **Machine Learning 📊**, **Generative AI 🤯**, **Cloud ☁️**, **Web3 🌐**, or **Full Stack Development 💻**. <!-- UPDATED -->
 Let’s innovate together! 🚀✨
 
 ---
@@ -27,8 +28,9 @@ Let’s innovate together! 🚀✨
 
 ## 🚀 Current Status Quo
 
-- 👨🏻‍💻 Currently building **PanScanAI** — an AI solution for **Pancreatic Cancer Detection and Classification** 🧬  
+- 👨🏻‍💻 Successfully built **PanScanAI** — an AI solution for **Pancreatic Cancer Detection and Classification** 🧬 <!-- UPDATED -->
 - 🌱 Learning **Generative AI**, **AI Agents**, and improving my **DSA** skills 🔣  
+- 🌐 Exploring **Web3** and **Cloud Computing** technologies to expand my development stack ☁️ <!-- UPDATED -->
 - 💡 Interests include **Deep Learning**, **Computer Vision**, **Cloud**, and **Web Development**  
 - 🎓 Graduated with **B.Tech in Artificial Intelligence & Machine Learning**  
 - 💬 Ask me about anything — I’d love to collaborate and share knowledge!  
@@ -40,25 +42,25 @@ Let’s innovate together! 🚀✨
   <summary><b>🛠️ My Tech Stack</b></summary>
 
 ### **☁️ Cloud Platforms**
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,netlify,vercel,heroku&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=50)](https://skillicons.dev)
 
 ### **⚙️ DevOps Tools**
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,bash,docker,kubernetes,jenkins,ansible,terraform,maven&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,bash,docker,kubernetes,jenkins,terraform,maven&perline=50)](https://skillicons.dev)
 
 ### **🧠 Machine Learning & AI**
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas,keras,huggingface/transformers,nltk,spacy,seaborn,matplotlib&perline=50)](https://skillicons.dev)
 
 ### **🗄️ Databases**
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,dynamodb&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=50)](https://skillicons.dev)
 
 ### **🧪 Testing Tools**
-[![My Skills](https://skillicons.dev/icons?i=postman,selenium,vitest,jest&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,selenium&perline=50)](https://skillicons.dev)
 
 ### **🖥️ Backend**
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,fastapi,flask,nginx,kafka,rabbitmq&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,fastapi,flask,rabbitmq&perline=50)](https://skillicons.dev)
 
 ### **🌐 Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,styledcomponents,webpack&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,styledcomponents,webpack&perline=50)](https://skillicons.dev)
 
 ### **💻 Programming Languages**
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,c&perline=50)](https://skillicons.dev)
@@ -67,7 +69,7 @@ Let’s innovate together! 🚀✨
 [![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,eclipse,replit&perline=50)](https://skillicons.dev)
 
 ### **💽 Operating Systems**
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,kali&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows&perline=50)](https://skillicons.dev)
 </details>
 
 ---
@@ -91,15 +93,6 @@ Let’s innovate together! 🚀✨
   <a><img height=200 src="https://github-profile-trophy.vercel.app/?username=Ayush-Chanchal&no-frame=true&theme=juicyfresh" /></a>
 </details>
 
-<details>
-  <summary><b>🐉 Holopin Board</b></summary>
-  <a><img align="center" src="https://holopin.me/Ayush-Chanchal" loading="lazy"/></a>
-</details>
-
-<details>
-  <summary><b>🦡 Other Badges</b></summary>
-  <a href="https://app.daily.dev/manavkhandurie"><img src="https://api.daily.dev/devcards/v2/Der2QpvO1aeJ2X3v1caoc.png?type=wide&r=fz6" width="652" alt="Ayush Chanchal's Dev Card"/></a>
-</details>
 
 ---
 
