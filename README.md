@@ -2,10 +2,10 @@
 <br />           
 
 Hello World 🌎! I'm **Ayush Chanchal**, a passionate **AI/ML Engineer 🤖**, **Deep Learning Researcher 🧠**, and **Full Stack Web Developer 🌐**.  
-I’m a **B.Tech graduate in Artificial Intelligence & Machine Learning** who thrives on building intelligent, data-driven systems that create real-world impact. <!-- UPDATED -->
-I’m constantly learning, experimenting, and exploring cutting-edge technologies to drive innovation. <!-- UPDATED -->
+I’m a **B.Tech graduate in Artificial Intelligence & Machine Learning** who thrives on building intelligent, data-driven systems that create real-world impact. 
+I’m constantly learning, experimenting, and exploring cutting-edge technologies to drive innovation. 
 
-Feel free to connect with me to discuss **Artificial Intelligence 🧠**, **Machine Learning 📊**, **Generative AI 🤯**, **Cloud ☁️**, **Web3 🌐**, or **Full Stack Development 💻**. <!-- UPDATED -->
+Feel free to connect with me to discuss **Artificial Intelligence 🧠**, **Machine Learning 📊**, **Generative AI 🤯**, **Cloud ☁️**, **Web3 🌐**, or **Full Stack Web Development 💻**.
 Let’s innovate together! 🚀✨
 
 ---
@@ -18,9 +18,10 @@ Let’s innovate together! 🚀✨
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:ayushchanchal447@gmail.com)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/twitter/twitter.svg" width="40px">](https://x.com/Ayush_chanchal_)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/discord/discord.svg" width="40px">](https://discord.com/channels/@me)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/telegram/telegram2.svg" width="40px">](https://t.me/manavkhandurie)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/telegram/telegram2.svg" width="40px">](https://web.telegram.org/k/)
 [<img src="https://img.icons8.com/color/48/codechef.png" width="40px">](https://www.codechef.com/users/ayush_chanchal)
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40px">](https://www.hackerrank.com/profile/ayushchanchal447)
+[<img src="https://icons8.com/icon/jldAN67IAsrW/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo" width="40px">](https://codeforces.com/profile/Ayush_chanchal)
 
 ---
 
@@ -28,9 +29,9 @@ Let’s innovate together! 🚀✨
 
 ## 🚀 Current Status Quo
 
-- 👨🏻‍💻 Successfully built **PanScanAI** — an AI solution for **Pancreatic Cancer Detection and Classification** 🧬 <!-- UPDATED -->
+- 👨🏻‍💻 Successfully built **PanScanAI** — an AI solution for **Pancreatic Cancer Detection and Classification** 🧬
 - 🌱 Learning **Generative AI**, **AI Agents**, and improving my **DSA** skills 🔣  
-- 🌐 Exploring **Web3** and **Cloud Computing** technologies to expand my development stack ☁️ <!-- UPDATED -->
+- 🌐 Exploring **Web3** and **Cloud Computing** technologies to expand my development stack ☁️ 
 - 💡 Interests include **Deep Learning**, **Computer Vision**, **Cloud**, and **Web Development**  
 - 🎓 Graduated with **B.Tech in Artificial Intelligence & Machine Learning**  
 - 💬 Ask me about anything — I’d love to collaborate and share knowledge!  
