@@ -1,9 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+%F0%9F%A4%97+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+Profile+%F0%9F%94%A5)](https://git.io/typing-svg)
 <br />           
-Hello World 🌎! I'm **Ayush-Chanchal**, a passionate cloud enthusiast☁️ and web developer🌐.Feel free to connect with me on cloud computing ☁️🖥️, open-source 🆓🔓,data structures and algorithms 🗃️🧮, and more. You can find my contact information below!😊🚀  
-                                                                                                                                                                                   
-                                                                                    
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">]((https://github.com/Ayush-chanchal))
+
+Hello World 🌎! I'm **Ayush Chanchal**, a passionate **AI/ML Engineer 🤖**, **Deep Learning Researcher 🧠**, and **Full Stack Web Developer 🌐**.  
+I love creating data-driven, intelligent systems that make a real-world impact!  
+
+Feel free to connect with me to discuss **Artificial Intelligence 🧠**, **Machine Learning 📊**, **Generative AI 🤯**, **Cloud ☁️**, or **Web Development 💻**.  
+Let’s innovate together! 🚀✨
+
+---
+
+### 🌐 Connect with Me
+
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Ayush-Chanchal)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/ayush-chanchal-220611220/)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/leetcode/leetcode.png" width="40px">](https://leetcode.com/u/_Ayush_chanchal/)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:ayushchanchal447@gmail.com)
@@ -13,215 +21,87 @@ Hello World 🌎! I'm **Ayush-Chanchal**, a passionate cloud enthusiast☁️ an
 [<img src="https://img.icons8.com/color/48/codechef.png" width="40px">](https://www.codechef.com/users/ayush_chanchal)
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40px">](https://www.hackerrank.com/profile/ayushchanchal447)
 
- 
+---
+
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" loading="lazy"/>
 
-<h2> <b>Current Status Quo</b> </h2>
+## 🚀 Current Status Quo
 
-- 👨🏻‍💻 I’m currently working on [AI-Agents]()
-- 🌱 I’m currently learning **GenAI** ,**AI-Agents** and **DSA**🔣.
-- 🧐 My research interests are with **Cloud, DevOps, ML, Web-Dev**, etc.
-- 💼 I pursued a _Bachelor's Degree_ in _Computer Science Engineering_.
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via ayushchanchal447@gmail.com .
+- 👨🏻‍💻 Currently building **PanScanAI** — an AI solution for **Pancreatic Cancer Detection and Classification** 🧬  
+- 🌱 Learning **Generative AI**, **AI Agents**, and improving my **DSA** skills 🔣  
+- 💡 Interests include **Deep Learning**, **Computer Vision**, **Cloud**, and **Web Development**  
+- 🎓 Graduated with **B.Tech in Artificial Intelligence & Machine Learning**  
+- 💬 Ask me about anything — I’d love to collaborate and share knowledge!  
+- 📫 Reach me at **ayushchanchal447@gmail.com**
 
-<br>
+---
+
 <details>
-  <summary>
-  <b > My Tech Stack 🛠️👨‍💻💻</b>
-  </summary>
-  
-### **Cloud ☁**
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,openstack,netlify,vercel,heroku&perline=50)](https://skillicons.dev)
+  <summary><b>🛠️ My Tech Stack</b></summary>
 
-### **DevOps Tools♾**
+### **☁️ Cloud Platforms**
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,netlify,vercel,heroku&perline=50)](https://skillicons.dev)
+
+### **⚙️ DevOps Tools**
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,githubactions,bash,docker,kubernetes,jenkins,ansible,terraform,maven&perline=50)](https://skillicons.dev)
 
-### **Databases 🛢️📊🧾**
-[![My Skills](https://skillicons.dev/icons?i=redis,mysql,mongodb,dynamodb&perline=50)](https://skillicons.dev)
+### **🧠 Machine Learning & AI**
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=50)](https://skillicons.dev)
 
-### **Machine Learning 🤖🧠🦾**
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=50)](https://skillicons.dev)
+### **🗄️ Databases**
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,dynamodb&perline=50)](https://skillicons.dev)
 
-### **Testing 🧪🔎✅**
-[![My Skills](https://skillicons.dev/icons?i=jest,vitest,selenium,postman&perline=50)](https://skillicons.dev)
+### **🧪 Testing Tools**
+[![My Skills](https://skillicons.dev/icons?i=postman,selenium,vitest,jest&perline=50)](https://skillicons.dev)
 
-### **Backend ⚙️🗄️🔙👨‍💻**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,nginx,kafka,rabbitmq,pug,yarn,npm&perline=50)](https://skillicons.dev)
+### **🖥️ Backend**
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,fastapi,flask,nginx,kafka,rabbitmq&perline=50)](https://skillicons.dev)
 
-### **Frontend 📱🕸👨‍💻🌐**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,redux,styledcomponents,webpack,md&perline=50)](https://skillicons.dev)
+### **🌐 Frontend**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,styledcomponents,webpack&perline=50)](https://skillicons.dev)
 
-### **Programming Languages </>💻**
-[![My Skills](https://skillicons.dev/icons?i=java,js,python,c,cpp&perline=50)](https://skillicons.dev)
+### **💻 Programming Languages**
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,c&perline=50)](https://skillicons.dev)
 
-### **IDE's 🖥️📟#️⃣**
-[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,vim,eclipse,replit,codepen&perline=50)](https://skillicons.dev)
+### **🧩 IDEs**
+[![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,eclipse,replit&perline=50)](https://skillicons.dev)
 
-### **Operating Systems 📂💻🏾**
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,kali,redhat&perline=50)](https://skillicons.dev)
+### **💽 Operating Systems**
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,kali&perline=50)](https://skillicons.dev)
+</details>
 
+---
 
+<details>
+  <summary><b>📈 My GitHub Stats</b></summary>
+
+<br/>
+<a><img height=200 src="https://github-readme-stats.vercel.app/api?username=Ayush-Chanchal&show_icons=true&theme=swift" loading="lazy"/></a>
+<a><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush-Chanchal&layout=compact&langs_count=8&theme=swift" loading="lazy"/></a>
+<a><img height=160 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush-Chanchal&theme=github&utcOffset=8" loading="lazy"/></a>
+<a><img height=160 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-Chanchal&theme=github" loading="lazy"/></a>
+<a><img height=200 src="https://streak-stats.demolab.com/?user=Ayush-Chanchal&theme=swift" loading="lazy"/></a>
+<a><img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Chanchal&theme=github-compact" loading="lazy"/></a>
+</details>
+
+---
+
+<details>
+  <summary><b>🏆 My GitHub Trophies</b></summary>
+  <a><img height=200 src="https://github-profile-trophy.vercel.app/?username=Ayush-Chanchal&no-frame=true&theme=juicyfresh" /></a>
 </details>
 
 <details>
-  <summary>
-  <b>My GitHub- Stats 📈📊</b>
-  </summary>
-<br />
-<a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Chanchal" loading="lazy"/>
-</a>
-<a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush-Chanchal&layout=compact&langs_count=8&card_width=320" loading="lazy"/>
-</a>
-  <a >
-  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush-Chanchal&theme=github&utcOffset=8" loading="lazy"/>
-</a>
-<a >
-  <img height=160 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-Chanchal&theme=github" loading="lazy"/>
-</a>
-  <a >
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Ayush-Chanchal&theme=swift" loading="lazy"/>
-</a>
-<a >
-  <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Chanchal&theme=github-compact" loading="lazy"/>
-</a>
-  <br />
+  <summary><b>🐉 Holopin Board</b></summary>
+  <a><img align="center" src="https://holopin.me/Ayush-Chanchal" loading="lazy"/></a>
 </details>
 
 <details>
-  <summary>
-  <b >My Github Trophies 🏆</b>
-  </summary>
-  <a >
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Ayush-Chanchal&no-frame=true" />
-  </a>
+  <summary><b>🦡 Other Badges</b></summary>
+  <a href="https://app.daily.dev/manavkhandurie"><img src="https://api.daily.dev/devcards/v2/Der2QpvO1aeJ2X3v1caoc.png?type=wide&r=fz6" width="652" alt="Ayush Chanchal's Dev Card"/></a>
 </details>
 
-<details>
-  <summary>
-  <b >Holopin 🐉</b>
-  </summary>
-  <a >
-      <img align="center" src="https://holopin.me/Ayush-Chanchal" loading="lazy" />
-  </a>
-</details>
+---
 
-<details>
-  <summary>
-  <b >Other Badges 🦡</b>
-  </summary>
- <a href="https://app.daily.dev/manavkhandurie"><img src="https://api.daily.dev/devcards/v2/Der2QpvO1aeJ2X3v1caoc.png?type=wide&r=fz6" width="652" alt="Ayush Chanchal's Dev Card"/></a>
-</details>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManav-Khandurie%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanav-khandurie-a72230261%2F&count_bg=%230600FF&title_bg=%23555555&icon=linkedin.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleetcode.com%2Fmanavkhandurie%2F&count_bg=%23FFB400&title_bg=%23555555&icon=leetcode.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![LeetCode user manavkhandurie](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmanavkhandurie&logo=leetcode&logoColor=yellow)](https://leetcode.com/manavkhandurie/)
-<br />
-<br />
-![](https://komarev.com/ghpvc/?username=Manav-Khandurie&color=green&style=flat-square)
-<!-- HTML and CSS for Styled Social Icons -->
-
-
-<!--
-<style>
-    /* Container for social icons */
-    .social-icons {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
-        gap: 10px;
-        justify-content: center;
-    }
-
-    /* Styling for individual social icons */
-    .social-icons a {
-        display: inline-block;
-        width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        overflow: hidden;
-        transition: transform 0.3s ease;
-    }
-
-    /* Hover effect on social icons */
-    .social-icons a:hover {
-        transform: scale(1.1);
-    }
-
-    /* Remove default link styles */
-    .social-icons a {
-        text-decoration: none;
-        color: inherit;
-    }
-</style>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manav-Khandurie)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<h1> Hi there 👋 </h1>
-![Static Badge](https://img.shields.io/badge/Discord-202020?logo=discord&logoColor=%235865F2&link=http%3A%2F%2Fdiscord.gg%2F2rnWsvkX)
-<h1> Welcome to my GitHub 🤗 </h1>
-**Manav-Khandurie/Manav-Khandurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Manav's github stats](https://github-readme-stats.vercel.app/api?username=Manav-Khandurie&show_icons=true)
-![](https://komarev.com/ghpvc/?username=Manav-Khandurie&color=green)
-[![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=Manav-Khandurie&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-https://streak-stats.demolab.com?user=Manav-Khandurie&theme=shadow-blue&background=87%2CFFFFFF%2CFFFCC1
-https://streak-stats.demolab.com/?user=Manav-Khandurie&theme=swift
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manav-Khandurie&theme=transparent&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manav-Khandurie&theme=transparent)
-[![An image of @manavkhandurie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavkhandurie)](https://holopin.io/@manavkhandurie)
-
-https://github-profile-trophy.vercel.app/?username=Manav-Khandurie&no-frame=true
-
-& [Fasal-Fusion](https://github.com/Manav-Khandurie/FASAL-FUSION.git)
-
-https://img.shields.io/badge/-000000?logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fmanavkhandurie%2F
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<a href="https://github.com/Manav-Khandurie">
-  <img align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/manav-khandurie/">
-  <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/manavkhandurie/">
-  <img align="left" alt="LeetCode" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/leetcode/leetcode.png" />
-</a>
-<a href="mailto:manavkhandurie@gmail.com">
-  <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" />
-</a>
-<a href="https://twitter.com/khandurie">
-  <img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/twitter/twitter.svg" />
-</a>
-<a href="https://discordapp.com/users/1130906260670263357)">
-  <img align="left" alt="Discord" width="40px" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/discord/discord.svg" />
-</a>
-<a href="https://hashnode.com/@ManavKhandurie">
-  <img align="left" alt="HashNode" width="40px" src="https://img.icons8.com/color/48/hashnode.png" />
-</a>
-<a href="https://www.codechef.com/users/manavkhandurie">
-  <img align="left" alt="CodeChef" width="40px" src="https://img.icons8.com/color/48/codechef.png" />
-</a>
-<a href="https://www.hackerrank.com/manavkhandurie">
-  <img align="left" alt="Hackerrank" width="40px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
-</a>
-<a href="https://codesandbox.io/u/manavkhandurie">
-  <img align="left" alt="CodeSandBox" width="40px" src="https://www.svgrepo.com/show/354887/code-sandbox.svg" />
-</a>
-
--->
-
-
-
-<!-- Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source professional and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️. -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyush-Chanchal&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=Ayush-Chanchal&color=green&style=flat-square)
