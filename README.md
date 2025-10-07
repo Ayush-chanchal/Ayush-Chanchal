@@ -21,7 +21,7 @@ Let’s innovate together! 🚀✨
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/telegram/telegram2.svg" width="40px">](https://web.telegram.org/k/)
 [<img src="https://img.icons8.com/color/48/codechef.png" width="40px">](https://www.codechef.com/users/ayush_chanchal)
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40px">](https://www.hackerrank.com/profile/ayushchanchal447)
-[<img src="https://icons8.com/icon/jldAN67IAsrW/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo" width="40px">](https://codeforces.com/profile/Ayush_chanchal)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="40px">](https://codeforces.com/profile/Ayush_chanchal)
 
 ---
 
